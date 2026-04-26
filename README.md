@@ -1,9 +1,8 @@
 ## 💫 About Me:
 
 🔭 I’m currently working as a **Full Stack Developer**
-🌱 I’m currently learning and building with **Next.js & React**
+🌱 learning and building with **Next.js & React**
 💬 Ask me about **Frontend and Backend development**
-📫 Reach out to me: **[Your Email Address]**
 
 <br/>
 
@@ -28,20 +27,20 @@
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Amir's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SoulVage&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Amir's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Amir's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulVage&theme=tokyonight&hide_border=true" alt="Amir's GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Amir's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulVage&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Amir's Top Languages" />
 </p>
 
 <br/>
 
-## ✍️ Random Dev Quote
+## ✍️ Today's Dev Quote
 
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
