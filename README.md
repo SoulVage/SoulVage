@@ -27,10 +27,6 @@
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoulVage&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Amir's GitHub Stats" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulVage&theme=tokyonight&hide_border=true" alt="Amir's GitHub Streak" />
 </p>
 
